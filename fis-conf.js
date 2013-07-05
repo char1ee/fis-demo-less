@@ -13,6 +13,6 @@ fis.config.merge({
                 reg : /\/less\/(.*\.less)/i,
                 release : '/css/$1'
             }
-        ],
+        ]
     }
 });
